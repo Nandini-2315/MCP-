@@ -1,8 +1,18 @@
-# 🐍 Python MCP Server – HelloMCP
+# ⚡ MCP-Powered Python Tool Integration Framework
 
-A simple Python-based **Model Context Protocol (MCP) Server** built using the MCP Python SDK. This project demonstrates how to create and expose custom Python functions as MCP tools that can be used by AI applications such as GitHub Copilot.
+**Name:** Vallapu Nandini  
+**Roll No:** 261FB04046
 
-The server provides seven tools for greeting users, performing mathematical calculations, and checking numbers.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
+  <img src="https://img.shields.io/badge/MCP-Python%20SDK-purple" />
+  <img src="https://img.shields.io/badge/AI-GitHub%20Copilot-black?logo=githubcopilot" />
+  <img src="https://img.shields.io/badge/Transport-stdio-green" />
+</p>
+
+### Building and Integrating Custom AI-Accessible Tools Using the Model Context Protocol
+
+A Python-based MCP server that exposes seven custom tools for mathematical computation, number analysis, and personalized greeting generation. Integrated with VS Code and GitHub Copilot Agent mode to demonstrate structured AI-to-tool communication.
 
 ## 📌 Project Overview
 
