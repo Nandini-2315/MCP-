@@ -1,1 +1,0 @@
-# GOT the lead permission
